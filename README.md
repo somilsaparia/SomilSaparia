@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Somil Saparia</h1>
 
-<h3 align="center">🎓 MSc in Computer Science | 🖥️ Full Stack Web Developer | 📊 Database Engineer | 🌱🚀🔵⚙️ MERN Tech Stack</h3>
+<h3 align="center">🎓 MSc in Computer Science | 🖥️ Full Stack Web Developer | 📊 Database Engineer | 🌱🚀🔵⚙️ MERN Stack</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somilsaparia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somil saparia" height="30" width="40" /></a>
