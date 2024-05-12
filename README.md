@@ -44,6 +44,9 @@ I am a passionate Full Stack Developer proficient in the MERN tech stack with a 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Diagrams.net](https://img.shields.io/badge/Diagrams.net-%23007ACC.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
+### Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somilsaparia&theme=blue-green&layout=compact)
+
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somilsaparia&" alt="somilsaparia" /></p>
