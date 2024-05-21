@@ -14,7 +14,7 @@
 I am a passionate Full Stack Developer proficient in the MERN tech stack with a strong background in database engineering. Currently completing my Master of Science in Computer Science at Pace University with a concentration in Web Development.
 
 <img align="right" alt="Coding" width="400" src="./assets/Web Developer.webp">
-
+- ⚡ GPA <b> 4.0/4.0 </b>
 - 🔭 I recently completed working on the **StyleX E-commerce Website using MERN Tech Stack**, a subscription-based platform for clothing rentals and purchases.
 - 🌱 I’m currently learning **Advanced React Techniques**
 - 👯 I’m looking to collaborate on **Open Source Projects**
