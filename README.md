@@ -13,7 +13,7 @@
 
 I am a passionate Full Stack Developer proficient in the MERN tech stack with a strong background in database engineering. Currently completing my Master of Science in Computer Science at Pace University with a concentration in Web Development.
 
-<img align="right" alt="Coding" width="400" src="https://example.com/web-developer-thinking.png">
+<img align="right" alt="Coding" width="400" src="https://allhealthcarecareers.com/wp-content/uploads/2020/10/Nurse-Thinking.png">
 
 - 🔭 I recently completed working on the **StyleX E-commerce Website using MERN Tech Stack**, a subscription-based platform for clothing rentals and purchases.
 - 🌱 I’m currently learning **Advanced React Techniques**
